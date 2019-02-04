@@ -1,3 +1,4 @@
-# Repositorio de fórmulas para el [Curso de Teoría de Campos](https://www.youtube.com/playlist?list=PLAnA8FVrBl8BiQd_Fg-Jr32P_v9F8vG-2) de [Javier García](https://www.youtube.com/user/jamesjamesbondbond)
+# **ANTIGUO** Repositorio de fórmulas para el Curso de Teoría Cuántica de Campos de [Javier García](https://www.youtube.com/user/jamesjamesbondbond)
 
-Sitio web: [https://crul.github.io/CursoTeoriaDeCamposJavierGarcia](https://crul.github.io/CursoTeoriaDeCamposJavierGarcia)
+Por un _pequeño_ fallo de nomenclatura, el formulario ha sido movido a un nuevo repositorio:
+[https://github.com/Crul/CursoTeoriaCuanticaDeCamposJavierGarcia](https://github.com/Crul/CursoTeoriaCuanticaDeCamposJavierGarcia)
